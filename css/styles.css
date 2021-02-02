@@ -21,7 +21,7 @@ site-footer {
 .jumbotron {
   margin: 0;
   padding: 30px;
-  background-image: linear-gradient(to right, color-secondary, #3046c5, #60106b);
+  background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
   color: white; }
 
 .row-content {
@@ -36,7 +36,7 @@ site-footer {
   background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-  border: solid color-secondary; }
+  border: solid #5637dd; }
 
 #carouselButton {
   position: absolute;
